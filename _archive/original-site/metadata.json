@@ -1,0 +1,6 @@
+{
+  "name": "KINETIK — Creative Technology & Digital Studio",
+  "description": "Award-winning creative technology and digital experience studio crafting cinematic WebGL, brand systems, and visionary digital products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
